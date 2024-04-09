@@ -1,17 +1,21 @@
-### I am Mohanakrishnan 👋 
-I am working as a DevOps Engineer
+# DevOps in Action
 
-<!--
-**MohanakrishnanV/MohanakrishnanV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to our DevOps GIF repository! Here's a glimpse of DevOps in action:
 
-Here are some ideas to get you started:
+![DevOps GIF](devops.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+This GIF showcases the power of DevOps practices in action. It illustrates the seamless integration of development and operations, automation of processes, and continuous delivery of software.
+
+## Usage
+
+Feel free to use this GIF to share the essence of DevOps with your team, colleagues, or on social media. Let's spread the DevOps culture!
+
+## Contributing
+
+If you have more DevOps GIFs to share or suggestions for improvement, feel free to contribute. Simply submit a pull request, and let's make this repository even more vibrant!
+
+## License
+
+This GIF is provided under the [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/), which means you can use it freely without attribution or restrictions.
