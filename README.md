@@ -1,21 +1,37 @@
-# DevOps in Action
 
-Welcome to our DevOps GIF repository! Here's a glimpse of DevOps in action:
+# Hi, I'm Mohanakrishnan! 👋
+## 🚀 About Me 
+I'm working as a DevOps/SRE and AWS certified Solutions Architect Associate
 
-![DevOps GIF](devops.gif)
 
-## About
+<!-- ![aws-certificate](./asset/aws-certified-solutions-architect-associate.png) -->
 
-This GIF showcases the power of DevOps practices in action. It illustrates the seamless integration of development and operations, automation of processes, and continuous delivery of software.
+<div style="text-align:center">
+  <img src="./asset/aws-certified-solutions-architect-associate.png" alt="AWS Certificate">
+</div>
 
-## Usage
 
-Feel free to use this GIF to share the essence of DevOps with your team, colleagues, or on social media. Let's spread the DevOps culture!
 
-## Contributing
+## 🛠 Skills
+Javascript, HTML, CSS...
 
-If you have more DevOps GIFs to share or suggestions for improvement, feel free to contribute. Simply submit a pull request, and let's make this repository even more vibrant!
+## 🔗 Let's Connect
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-## License
 
-This GIF is provided under the [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/), which means you can use it freely without attribution or restrictions.
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
