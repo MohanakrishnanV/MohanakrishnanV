@@ -3,17 +3,22 @@
 ## 🚀 About Me 
 I'm working as a DevOps/SRE and AWS certified Solutions Architect Associate
 
+![aws-certificate](./asset/aws-certified-solutions-architect-associate.png)
 
-<!-- ![aws-certificate](./asset/aws-certified-solutions-architect-associate.png) -->
-
-<div style="text-align:center">
+<!-- <div style="text-align:center">
   <img src="./asset/aws-certified-solutions-architect-associate.png" alt="AWS Certificate">
 </div>
-
+ -->
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+|||
+|-|-|
+| **AWS Services** | IAM, EC2, S3,|
+| **Version Control System**| Git, GitLab, GitHub|
+| **-**| - |
+
+
 
 ## 🔗 Let's Connect
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
@@ -21,7 +26,7 @@ Javascript, HTML, CSS...
 <!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
 
-## Used By
+## Projects
 
 This project is used by the following companies:
 
@@ -29,7 +34,7 @@ This project is used by the following companies:
 - Company 2
 
 
-## Tech Stack
+## Tech Stack: 
 
 **Client:** React, Redux, TailwindCSS
 
