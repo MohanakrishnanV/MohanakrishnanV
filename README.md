@@ -11,7 +11,17 @@ I'm working as a DevOps/SRE and AWS certified Solutions Architect Associate, am 
 
 <div style="text-align:center">
   <img width="80" height="80" img src="./asset/amazonaws-color.svg">
+  <img width="80" height="80" img src="./asset/git-color.svg">
+  <img width="80" height="80" img src="./asset/gitlab-color.svg">
+  <img width="80" height="80" img src="./asset/ansible-color.svg">
+  <img width="80" height="80" img src="./asset/docker-color.svg">
+  <img width="80" height="80" img src="./asset/amazoneks-color.svg">
+  <img width="80" height="80" img src="./asset/packer-color.svg">
   <img width="80" height="80" img src="./asset/terraform-color.svg">
+  <img width="80" height="80" img src="./asset/prometheus-color.svg">
+  <img width="80" height="80" img src="./asset/grafana-color.svg">
+  <img width="80" height="80" img src="./asset/sentry-color.svg">
+  <img width="80" height="80" img src="./asset/sonarqube-color.svg">
 </div>
 
 
