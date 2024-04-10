@@ -1,14 +1,19 @@
 
 # Hi, I'm Mohanakrishnan! 👋 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanakrishnan-v-aa93b2144/) 
-![aws-certificate](./asset/aws-certified-solutions-architect-associate.png) 
 
-<!-- <div style="text-align:center">
-  <img src="./asset/aws-certified-solutions-architect-associate.png" alt="AWS Certificate">
-</div> -->
+<div style="text-align:left">
+  <img width="100" height="100" img src="./asset/aws-certified-solutions-architect-associate.png">
+</div>
 
 
 ## 🚀 About Me 
 I'm working as a DevOps/SRE and AWS certified Solutions Architect Associate, am interested in learning new way to automate the complex things
+
+<div style="text-align:center">
+  <img width="80" height="80" img src="./asset/amazonaws-color.svg">
+  <img width="80" height="80" img src="./asset/terraform-color.svg">
+</div>
+
 
 
 ## 🛠 Skills
