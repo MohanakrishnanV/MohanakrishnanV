@@ -8,7 +8,9 @@
 
 
 ## 🚀 About Me 
-I'm working as a DevOps/SRE and AWS certified Solutions Architect Associate, am interested in learning new way to automate the complex things
+I possess a strong thirst for knowledge and am always seeking opportunities to learn.
+
+I am flexible and adaptable, always ready to learn and take on new responsibilities.
 
 <div style="text-align:center">
   <img width="80" height="80" img src="./asset/amazonaws-color.svg">
