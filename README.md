@@ -1,38 +1,26 @@
 
-# Hi, I'm Mohanakrishnan! 👋 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanakrishnan-v-aa93b2144/) 
+# Hi, I'm Mohanakrishnan! 👋 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanakrishnan-v-aa93b2144/) 
+![aws-certificate](./asset/aws-certified-solutions-architect-associate.png) 
+
+<!-- <div style="text-align:center">
+  <img src="./asset/aws-certified-solutions-architect-associate.png" alt="AWS Certificate">
+</div> -->
 
 
 ## 🚀 About Me 
 I'm working as a DevOps/SRE and AWS certified Solutions Architect Associate, am interested in learning new way to automate the complex things
 
-![aws-certificate](./asset/aws-certified-solutions-architect-associate.png)
-
-<!-- <div style="text-align:center">
-  <img src="./asset/aws-certified-solutions-architect-associate.png" alt="AWS Certificate">
-</div>
- -->
-
 
 ## 🛠 Skills
 |||
 |-|-|
-| **AWS Services** | IAM, EC2, S3,|
-| **Version Control System**| Git, GitLab, GitHub|
-| **-**| - |
+| **AWS Services** | IAM, EC2, S3,VPC, Route53, SNS, SQS, Lambda, AWS Backups, EFS, RDS, Secrets Manager, Amazon OpenSearch Service, CloudFront, CloudWatch|
+| **Version Control System**| Git, GitHub, GitLab|
+| **Configuration Management**| Ansible |
+| **Containerization Tools**| Docker, Kubernetes |
+| **Infrastructure as code (IaC)**| Packer, Terraform |
+| **Monitoring Tools**| Prometheus, Grafana, SonarQube, Sentry |
+| **Project Management Tools**| Jira, Confluence |
+| **Testing tools**| JMeter, LoadRunne |
 
-
-<!-- 
-## 🔗 Let's Connect
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
-<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanakrishnan-v-aa93b2144/) 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
-
-
-<!-- 
-## Tech Stack: 
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express -->
 
