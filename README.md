@@ -5,6 +5,7 @@
 ## 🏆 Certification
 <div style="text-align:left">
   <img width="100" height="100" img src="./asset/aws-certified-solutions-architect-associate.png">
+  <img width="100" height="100" img src="./asset/oracle-cloud-infrastructure-badge.png">  
 </div>
 
 
