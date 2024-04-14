@@ -4,7 +4,7 @@
 
 
 ## 🏆 Certification
-Click on the Badges to verify...!
+Click on the Badges to verify...! ✔️ 🤞
 
 <div style="text-align:left">
   
