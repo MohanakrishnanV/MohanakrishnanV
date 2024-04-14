@@ -5,11 +5,17 @@
 
 ## 🏆 Certification
 Click on the Badges to verify...!
+
 <div style="text-align:left">
+  
   <a href="https://www.credly.com/badges/ae79ece9-e58f-40a0-a4bb-a70f5a478ced/public_url">
   <img width="100" height="100" img src="./asset/aws-certified-solutions-architect-associate.png">
   </a>
-  <img width="100" height="106" img src="./asset/oracle-cloud-infrastructure-badge.png" href="https://www.credly.com/badges/ae79ece9-e58f-40a0-a4bb-a70f5a478ced/public_url">  
+  
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E0BF57C817497291E82B9522DC3B61ABCF5AF82CB02CBA58A4348BBE371E555">
+  <img width="100" height="106" img src="./asset/oracle-cloud-infrastructure-badge.png">
+  </a> 
+
 </div>
 
 
