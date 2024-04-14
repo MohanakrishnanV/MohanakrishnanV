@@ -15,7 +15,7 @@ I possess a strong thirst for knowledge and am always seeking opportunities to l
 
 I am flexible and adaptable, always ready to learn and take on new responsibilities.
 
-<div style="text-align:center">
+<p aling="center">
   <img width="50" height="50" img src="./asset/amazonaws-color.svg">
   <!-- <img width="50" height="50" img src="./asset/git-color.svg">
   <img width="50" height="50" img src="./asset/gitlab-color.svg"> -->
@@ -28,7 +28,7 @@ I am flexible and adaptable, always ready to learn and take on new responsibilit
   <img width="50" height="50" img src="./asset/grafana-color.svg">
   <img width="50" height="50" img src="./asset/sentry-color.svg">
   <img width="50" height="50" img src="./asset/sonarqube-color.svg">
-</div>
+</p>
 
 
 
