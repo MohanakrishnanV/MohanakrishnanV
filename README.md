@@ -16,18 +16,18 @@ I possess a strong thirst for knowledge and am always seeking opportunities to l
 I am flexible and adaptable, always ready to learn and take on new responsibilities.
 
 <div align="center">
-  <img width="50" height="50" img src="./asset/amazonaws-color.svg">
-  <!-- <img width="50" height="50" img src="./asset/git-color.svg">
-  <img width="50" height="50" img src="./asset/gitlab-color.svg"> -->
-  <img width="50" height="50" img src="./asset/ansible-color.svg">
-  <img width="50" height="50" img src="./asset/docker-color.svg">
-  <img width="50" height="50" img src="./asset/amazoneks-color.svg">
-  <img width="50" height="50" img src="./asset/packer-color.svg">
-  <img width="50" height="50" img src="./asset/terraform-color.svg">
-  <img width="50" height="50" img src="./asset/prometheus-color.svg">
-  <img width="50" height="50" img src="./asset/grafana-color.svg">
-  <img width="50" height="50" img src="./asset/sentry-color.svg">
-  <img width="50" height="50" img src="./asset/sonarqube-color.svg">
+  <img width="60" height="60" img src="./asset/amazonaws-color.svg">
+  <!-- <img width="60" height="60" img src="./asset/git-color.svg">
+  <img width="60" height="60" img src="./asset/gitlab-color.svg"> -->
+  <img width="60" height="60" img src="./asset/ansible-color.svg">
+  <img width="60" height="60" img src="./asset/docker-color.svg">
+  <img width="60" height="60" img src="./asset/amazoneks-color.svg">
+  <img width="60" height="60" img src="./asset/packer-color.svg">
+  <img width="60" height="60" img src="./asset/terraform-color.svg">
+  <img width="60" height="60" img src="./asset/prometheus-color.svg">
+  <img width="60" height="60" img src="./asset/grafana-color.svg">
+  <img width="60" height="60" img src="./asset/sentry-color.svg">
+  <img width="60" height="60" img src="./asset/sonarqube-color.svg">
 </div>
 
 
