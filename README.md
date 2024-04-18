@@ -51,6 +51,6 @@ I am flexible and adaptable, always ready to learn and take on new responsibilit
 | **Infrastructure as code (IaC)**| Packer, Terraform |
 | **Monitoring Tools**| Prometheus, Grafana, SonarQube, Sentry |
 | **Project Management Tools**| Jira, Confluence |
-| **Testing tools**| JMeter, LoadRunner |
+<!-- | **Testing tools**| JMeter, LoadRunner | -->
 
 
