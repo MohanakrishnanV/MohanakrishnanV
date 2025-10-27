@@ -53,4 +53,11 @@ I am flexible and adaptable, always ready to learn and take on new responsibilit
 | **Project Management Tools**| Jira, Confluence |
 <!-- | **Testing tools**| JMeter, LoadRunner | -->
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanakrishnanV&show_icons=true&theme=tokyonight" alt="Vignesh's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanakrishnanV&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
