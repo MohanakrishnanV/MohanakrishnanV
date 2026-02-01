@@ -4,7 +4,7 @@
 
 
 ## 🏆 Certification
-✅ Click on the Badges to verify 🤞
+
 <!-- 
 <a href="https://www.credly.com/badges/ae79ece9-e58f-40a0-a4bb-a70f5a478ced/public_url">
   <img src="./asset/aws-certified-solutions-architect-associate.png" width="100" height="100">
@@ -27,6 +27,7 @@
   </a>
 </td>
 <td valign="top" style="padding-left: 20px;">
+✅ Click on the Badges to verify 🤞
 <a href="https://www.credly.com/badges/ae79ece9-e58f-40a0-a4bb-a70f5a478ced/public_url">
   <img src="./asset/aws-certified-solutions-architect-associate.png" width="100" height="100">
 </a>
