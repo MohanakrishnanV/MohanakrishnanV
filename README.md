@@ -41,9 +41,9 @@ AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and a
 
 <table>
 <tr>
-<td width="400">
+<td width="500">
   <a href="#">
-    <img src="./asset/mk.png" width="400" height="260">
+    <img src="./asset/mk.png" width="500" height="325">
   </a>
 </td>
 <td valign="top" style="padding-left: 20px;">
