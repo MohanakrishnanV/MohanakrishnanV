@@ -3,7 +3,7 @@
 <!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanakrishnan-v-aa93b2144/)  -->
 
 ## 🚀 About Me 
-AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and automated infrastructure. I work with Terraform, Bicep, Kubernetes, and CI/CD pipelines. Here, I share cloud projects, scripts, and tools that I’ve built or experimented with to make infrastructure reliable and efficient.
+AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and automated infrastructure. I work with **Terraform**, **Kubernetes**, and **CI/CD pipelines**. Here, I share cloud projects, scripts, and tools that I’ve built or experimented with to make infrastructure reliable and efficient.
 
 <!-- <div align="center">
   <img width="60" height="60" img src="./asset/amazonaws-color.svg">
