@@ -53,3 +53,23 @@ I am flexible and adaptable, always ready to learn and take on new responsibilit
 | **Project Management Tools**| Jira, Confluence |
 <!-- | **Testing tools**| JMeter, LoadRunner | -->
 
+## 🛠 Skills
+
+- ☁️ **Cloud / AWS Services:** IAM, EC2, S3, VPC, Route53, SNS, SQS, Lambda, Backups, EFS, RDS, Secrets Manager, OpenSearch, CloudFront, CloudWatch
+- 🔧 **Version Control:** Git, GitHub, GitLab
+- 🛠 **Configuration Management:** Ansible
+- 🐳 **Containerization / Orchestration:** Docker, Kubernetes (EKS)
+- 🏗 **Infrastructure as Code (IaC):** Packer, Terraform
+- 📊 **Monitoring & Observability:** Prometheus, Grafana, SonarQube, Sentry
+- 📌 **Project Management Tools:** Jira, Confluence
+
+
+## 🛠 Skills
+
+**AWS / Cloud:** ![AWS](https://progress-bar.dev/90/)  
+**Docker / Kubernetes:** ![Docker](https://progress-bar.dev/85/)  
+**Terraform / Packer:** ![Terraform](https://progress-bar.dev/80/)  
+**Ansible:** ![Ansible](https://progress-bar.dev/75/)  
+**Prometheus / Grafana:** ![Monitoring](https://progress-bar.dev/70/)  
+**Git / GitHub / GitLab:** ![Git](https://progress-bar.dev/95/)  
+**Jira / Confluence:** ![Jira](https://progress-bar.dev/85/)
