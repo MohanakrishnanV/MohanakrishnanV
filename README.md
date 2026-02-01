@@ -21,6 +21,17 @@
   </div>
 </div>
 
+<a href="https://www.credly.com/badges/ae79ece9-e58f-40a0-a4bb-a70f5a478ced/public_url">
+  <img src="./asset/aws-certified-solutions-architect-associate.png" width="100" height="100">
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E0BF57C817497291E82B9522DC3B61ABCF5AF82CB02CBA58A4348BBE371E555">
+  <img src="./asset/oracle-cloud-infrastructure-badge.png" width="100" height="106">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#">
+  <img src="./asset/mk.png" width="200" height="130">
+</a>
+
 
 ## 🚀 About Me 
 I possess a strong thirst for knowledge and am always seeking opportunities to learn.
