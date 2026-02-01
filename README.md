@@ -18,6 +18,26 @@
 </a>
 
 
+
+<table>
+<tr>
+<td width="400">
+  <a href="#">
+    <img src="./asset/mk.png" width="400" height="260">
+  </a>
+</td>
+<td valign="top" style="padding-left: 20px;">
+  ## 🚀 About Me
+
+  I possess a strong thirst for knowledge and am always seeking opportunities to learn.  
+
+  I am flexible and adaptable, always ready to learn and take on new responsibilities.
+</td>
+</tr>
+</table>
+
+
+
 ## 🚀 About Me 
 I possess a strong thirst for knowledge and am always seeking opportunities to learn.
 
