@@ -3,7 +3,12 @@
 <!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanakrishnan-v-aa93b2144/)  -->
 
 ## 🚀 About Me 
-AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and automated infrastructure. I work with **Terraform**, **Kubernetes**, and **CI/CD pipelines**. Here, I share cloud projects, scripts, and tools that I’ve built or experimented with to make infrastructure reliable and efficient.
+AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and automated infrastructure. I work with **Terraform**, **Kubernetes**, and **CI/CD pipelines**.
+<div>
+  <img width="100" height="100" src="./asset/cka.png">
+  <img width="90" height="90" src="./asset/aws-certified-solutions-architect-associate.png">
+  <img width="90" height="90" src="./asset/oracle-cloud-infrastructure-badge.png">
+</div>
 
 <!-- <div align="center">
   <img width="60" height="60" img src="./asset/amazonaws-color.svg">
@@ -39,7 +44,7 @@ AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and a
 
  -->
 
-<table>
+<!-- <table>
 <tr>
 <td width="500">
   <a href="#">
@@ -62,23 +67,11 @@ AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and a
   </div>
 </td>
 </tr>
-</table>
+</table> -->
 
 
 
 <!-- ## 🛠 Skills
-|||
-|-|-|
-| **AWS Services** | IAM, EC2, S3,VPC, Route53, SNS, SQS, Lambda, AWS Backups, EFS, RDS, Secrets Manager, Amazon OpenSearch Service, CloudFront, CloudWatch|
-| **Version Control System**| Git, GitHub, GitLab|
-| **Configuration Management**| Ansible |
-| **Containerization Tools**| Docker, Kubernetes |
-| **Infrastructure as code (IaC)**| Packer, Terraform |
-| **Monitoring Tools**| Prometheus, Grafana, SonarQube, Sentry |
-| **Project Management Tools**| Jira, Confluence | -->
-<!-- | **Testing tools**| JMeter, LoadRunner | -->
-
-## 🛠 Skills
 
 - ☁️ **Cloud / AWS Services:** IAM, EC2, S3, VPC, Route53, SNS, SQS, Lambda, Backups, EFS, RDS, Secrets Manager, OpenSearch, CloudFront, CloudWatch
 - 🔧 **Version Control:** Git, GitHub, GitLab
@@ -86,4 +79,4 @@ AWS Cloud & DevOps enthusiast with 11+ years in building scalable, secure, and a
 - 🐳 **Containerization / Orchestration:** Docker, Kubernetes (EKS)
 - 🏗 **Infrastructure as Code (IaC):** Packer, Terraform
 - 📊 **Monitoring & Observability:** Prometheus, Grafana, SonarQube, Sentry
-- 📌 **Project Management Tools:** Jira, Confluence
+- 📌 **Project Management Tools:** Jira, Confluence -->
